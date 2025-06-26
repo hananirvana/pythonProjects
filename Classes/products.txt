@@ -1,0 +1,8 @@
+(1) strawberries | $7, qt: 5
+(2) bananas | $6, qt: 5
+(3) apples | $3, qt: 45
+(4) oranges | $8, qt: 5
+(5) mangoes | $2, qt: 5
+(6) watermelons | $6, qt: 5
+(7) lime | $5, qt: 5
+(8) grapes | $3, qt: 9
