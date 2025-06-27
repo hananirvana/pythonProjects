@@ -21,14 +21,14 @@ Count Words in a String - Counts the number of individual words in a string. For
 complexity read these strings in from a text file and generate a summary. (DONE)
 
 Text Editor - Notepad style application that can open, edit, and save text documents.
-Optional: Add syntax highlighting and other features.
+Optional: Add syntax highlighting and other features. (DONE)
 
-RSS Feed Creator - Given a link to RSS/Atom Feed, get all posts and display them.
+RSS Feed Creator - Given a link to RSS/Atom Feed, get all posts and display them. (RESEARCH)
 
 Quote Tracker (market symbols etc) - A program which can go out and check the current value
 of stocks for a list of symbols entered by the user. The user can set how often the stocks
 are checked. For CLI, show whether the stock has moved up or down. Optional: If GUI,
-the program can show green up and red down arrows to show which direction the stock value has moved.
+the program can show green up and red down arrows to show which direction the stock value has moved. (DONE)
 
 Guestbook / Journal - A simple application that allows people to add comments or write
 journal entries. It can allow comments or not and timestamps for all entries. Could also
