@@ -3,6 +3,11 @@ Quote Tracker (market symbols etc.) - A program which can go out and check the c
 of stocks for a list of symbols entered by the user. The user can set how often the stocks
 are checked. For CLI, show whether the stock has moved up or down. Optional: If GUI,
 the program can show green up and red down arrows to show which direction the stock value has moved.
+
+NOTE: for users trying to understand this, make sure to import yfinance from pip. so you can use `$ pip install yfinance` or `python3 -m pip install yfinance`
+yfinance (aka YahooFinance) is the API used for the stock values. This is by far the most reliable API to use for stock information. When you send the request for a 
+certain symbol, they will provide you A LOT of information. So it is best to first print the information given, then you refer to the items you need. Here
+is the API reference: https://pypi.org/project/yfinance/
 """
 import yfinance as yf
 from Keys import api_keys
